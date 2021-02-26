@@ -1,0 +1,2 @@
+<a href="https://www.theodinproject.com/courses/foundations/lessons/practicing-git-basics"><p align="center"><img src="https://raw.githubusercontent.com/chad-little/theodinproject/main/logo.png" width="400"></p></a>
+<a href="https://docs.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent"><img src="https://github.com/chad-little/git_test/blob/main/website.png"></a>
